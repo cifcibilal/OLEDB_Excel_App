@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34003.232
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OLEDB_Excel_App", "OLEDB_Excel_App\OLEDB_Excel_App.csproj", "{86AA01E1-B056-4774-BD43-FF6C89D6019E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86AA01E1-B056-4774-BD43-FF6C89D6019E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86AA01E1-B056-4774-BD43-FF6C89D6019E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86AA01E1-B056-4774-BD43-FF6C89D6019E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86AA01E1-B056-4774-BD43-FF6C89D6019E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {695DA936-9B69-4721-99A4-556ED765B9DE}
+	EndGlobalSection
+EndGlobal
