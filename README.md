@@ -3,7 +3,6 @@ OLEDB Kutuphanesi kullanilarak excel dosyasi okuma ve sql sorgulariyla filtrelem
 ## Excel okuma ve sorgulama islemleri.
 ## Geliştirici
 - Projenin geliştiricisi: Bilal CIFCI
-- E-posta: cifci.bilal@outlook.com
 ## SQL Sorgulari kullanilacaksa C# icinde nasil kullaniliyor bilinmelidir.
 ## Surum Gecmisi
 ### Major version 1.0
